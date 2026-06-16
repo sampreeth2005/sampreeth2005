@@ -14,7 +14,7 @@
 
 🎓 B.Tech CSE Student at **Sreyas Institute of Engineering & Technology**
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Software Development, and Data Analytics**
+💡 Passionate about **Artificial Intelligence, Vibe Coding, Software Development, and Web Applications**
 
 🔭 Currently building:
 
@@ -29,6 +29,7 @@
 * Machine Learning
 * Full Stack Development
 * SaaS Building
+* ADSA
 
 ⚡ Fun Fact:
 
