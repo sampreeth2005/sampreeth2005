@@ -154,7 +154,7 @@ DBMS project covering:
 
 🏅 Built AI, ML, Web Development and DBMS Projects
 
-🏅 Strong foundation in Python, SQL, OOP and Database Design
+🏅 Strong foundation in Python
 
 🏅 Passionate about AI-driven software solutions
 
