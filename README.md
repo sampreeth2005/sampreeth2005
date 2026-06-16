@@ -2,7 +2,7 @@
 
 # Hey there 👋, I'm Bhogela Chetan Sai Sampreeth
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Enthusiast;Computer+Science+Engineer;Python+Developer;Machine+Learning+Explorer;Building+Projects+That+Solve+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Enthusiast;Computer+Science+Engineer;Python+Developer;Vibe+Coder;Building+Projects+That+Solve+Problems" />
 
 <img src="https://komarev.com/ghpvc/?username=sampreeth2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
