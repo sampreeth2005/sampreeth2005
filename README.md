@@ -49,6 +49,8 @@
 
 <a href="mailto:b.ch.saisampreeth10@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://instagram.com/ft_sampreeth_365" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="60" alt="Instagram"/>
 </a>
 </p>
 
